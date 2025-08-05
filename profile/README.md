@@ -81,12 +81,7 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 Most family tree companies are deeply into the locked-in and proprietary subscription model and provide very little past the first few days.
 These companies will not be our greatest supporters because they already dislike Gramps; this is the case of many revolution attempts in every sector.
-
-We contribute to the tools 🔧 we rely on to build and run South Coast Energy while maintaining 🧙‍♂️ our own open-source projects.
-Some of you, like South Coast Energy, may build closed or open-source software you would like to pitch to energy companies.
-Be prepared for rejections and hard passes on what may feel like your software baby from companies across our World.
-Know that South Coast Energy will consider any contribution and our software. Our legacy is as important as the work we do today.
-Energy secures the survival of homo sapiens; whether it be [the fire keeping our Neanderthal ancestors warm up to 400,000 years ago](https://www.sapiens.org/archaeology/neanderthal-fire) or the latest photovoltaic panels providing 1200 Watts of electrical energy.
+We contribute to the tools 🔧 we rely on to build and run Falstein Tree while maintaining 🧙‍♂️ our own open-source projects.
 We strive for greater openness in an already opportunistic industry.
 
 ## Docs 🤓📚

@@ -96,4 +96,4 @@ See what's next on our [public roadmap](https://github.com/FalsteinTree/roadmap)
 Please, [let us know](https://github.com/FalsteinTree/feedback) if you have any suggestions 🙇‍♂️
 We are always hiring talented, passionate people to [join our team](https://github.com/FalsteinTree/careers) 🙌
 
-<sub><a href="https://tree.falstein.cloud">South Coast Energy</a> <a href="https://legal.tree.falstein.cloud/copyright">©</a> <a href="https://tree.falstein.cloud">South Coast Energy</a> — <a href="https://tree.falstein.cloud/founding" id="originyear">December 2021</a> to <a href="https://tree.falstein.cloud/latest" id="monthyear">Present</a></sub>
+<sub><a href="https://tree.falstein.cloud">Falstein Tree</a> <a href="https://legal.tree.falstein.cloud/copyright">©</a> <a href="https://tree.falstein.cloud">Falstein Tree</a> — <a href="https://tree.falstein.cloud/founding" id="originyear">December 2021</a> to <a href="https://tree.falstein.cloud/latest" id="monthyear">Present</a></sub>
